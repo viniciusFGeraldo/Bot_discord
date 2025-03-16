@@ -53,3 +53,19 @@ Agora que o bot está configurado, você pode iniciar o bot com o comando:
 npm start
 
 Isso fará com que o bot entre no Discord e comece a monitorar as mensagens nos servidores onde ele tiver permissão.
+
+5. Estrutura do Projeto
+Para que os desenvolvedores saibam como o projeto está organizado e onde encontrar cada parte, uma boa prática é adicionar uma seção sobre a estrutura do projeto. Exemplo:
+
+Estrutura do Projeto
+bash
+Copiar código
+.
+├── commands/               # Comandos do bot
+│   ├── ping.js             # Arquivo que teste inicial de funcionamento
+├── lib/                    # Pasta para arquivos auxiliares
+│   └── words.txt           # Arquivo de palavras proibidas
+├── .env                    # Configurações sensíveis do bot
+├── index.js                # Arquivo principal do bot
+├── package.json            # Dependências e configurações do projeto
+└── README.md               # Este arquivo
