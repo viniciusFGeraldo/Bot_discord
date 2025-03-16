@@ -53,7 +53,6 @@ Isso fará com que o bot entre no Discord e comece a monitorar as mensagens nos 
 Estrutura do Projeto
 Para que os desenvolvedores saibam como o projeto está organizado e onde encontrar cada parte, a estrutura do projeto é a seguinte:
 
-.
 ├── commands/               # Comandos do bot
 │   ├── ping.js             # Arquivo que testa o funcionamento inicial
 ├── lib/                    # Pasta para arquivos auxiliares
