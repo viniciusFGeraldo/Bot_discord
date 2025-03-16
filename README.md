@@ -64,3 +64,6 @@ Para que os desenvolvedores saibam como o projeto está organizado e onde encont
 ├── index.js                # Arquivo principal do bot
 ├── package.json            # Dependências e configurações do projeto
 └── README.md               # Este arquivo
+```
+
+referencia: https://www.youtube.com/watch?v=zKOf1NGGStE&t=3391s
