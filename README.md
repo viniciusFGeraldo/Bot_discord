@@ -40,8 +40,8 @@ env
 TOKEN=seu-token-do-discord
 CLIENT_ID=seu-client-id-do-bot
 GUILD_ID=seu-guild-id-do-servidor
-(Substitua seu-token-do-discord, seu-client-id-do-bot e seu-guild-id-do-servidor pelos valores correspondentes da sua aplicação no Discord.)
 ```
+(Substitua seu-token-do-discord, seu-client-id-do-bot e seu-guild-id-do-servidor pelos valores correspondentes da sua aplicação no Discord.)
 
 ### 4. Arquivo de palavras proibidas
 O bot lê as palavras proibidas a partir de um arquivo de texto (words.txt). Coloque as palavras proibidas no arquivo words.txt, com uma palavra por linha. Esse arquivo deve estar localizado na pasta ./lib/ do projeto.
